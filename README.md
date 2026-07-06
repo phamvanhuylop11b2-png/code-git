@@ -181,8 +181,3 @@ Chương trình đã hoàn thành các chức năng:
 - Xuất dữ liệu ra Excel hoặc PDF.
 - Phát triển giao diện Java Swing hoặc JavaFX.
 
-
-
-**Mô hình:** MVC - DAO
-
-**Năm thực hiện:** 2026
