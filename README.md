@@ -19,6 +19,6 @@ Dự án Java quản lý công việc (Task Management System).
 1. Clone project về máy:
    git clone <link-repo>
 
-2. Mở bằng IntelliJ / Eclipse
+2. Mở bằng Eclipse
 
 3. Chạy file Main.java
