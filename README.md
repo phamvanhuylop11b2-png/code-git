@@ -1,7 +1,7 @@
 # HỆ THỐNG QUẢN LÝ CÔNG VIỆC
 
 ## Giới thiệu
-Dự án Java quản lý công việc (Task Management System).
+Dự án Java quản lý công việc cá nhân
 ## Chức năng
 - Đăng ký / Đăng nhập
 - Thêm công việc
